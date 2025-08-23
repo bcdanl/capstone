@@ -61,7 +61,7 @@ format:
 | Week | Dates       | Topic                                          | Notes |
 |:---:|:-------------:|:----------------------------------------------|:------|
 | 1   | August 29    | **Meeting 0** (Course Outline; Research Ideas)             |       |
-| 2   | Sep 2–5      | Prepare Meeting 1 (Data Collection; Research Ideas)             | Labor Day (Sep 1) |
+| 2   | Sep 2–5      | Prepare Meeting 1 (Research Ideas; Data Collection)             | Labor Day (Sep 1) |
 | 3   | September 12     | **Meeting 1** (Research Methods, Data Collection; Research Ideas)    |       |
 | 4   | Sep 15–19    | Prepare Meeting 2 (Data Preparation; Prepare the Research Kickoff Report)  |       |
 | 5   | September 26    | **Meeting 2** (Research Methods)      |   Submission of Research Kickoff Report    |
