@@ -95,7 +95,7 @@ Each report is meant to serve as a structured progress documentation that balanc
 	-	What are the next concrete steps before the next meeting?
 	-	Identify support/resources needed.
 5.	Personal takeaways
-	-	Briefly reflect on skills gained (coding, data wrangling, communication, teamwork).
+	-	Briefly reflect on skills gained (coding, data wrangling, communication).
 	-	How do these skills connect to the overall capstone or professional goals?
 	
 
@@ -129,7 +129,7 @@ Each report is meant to serve as a structured progress documentation that balanc
 	-	Any limitations (missing data, measurement error).
 
 5. Methods / Analytical Approach
-	-	What techniques will be used (e.g., regression, clustering, NLP, time-series)?
+	-	What techniques will be used (e.g., regression, clustering, time-series)?
 	-	Why are these methods appropriate?
 	-	Any expected preprocessing steps (cleaning, transformations).
 
