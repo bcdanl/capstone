@@ -1,0 +1,154 @@
+---
+title: '<font style="font-family:Optima"><b>HONR 393-14: Capstone in Data Analytics, Fall 2025</b></font>'
+subtitle: '<div class=class="box-body buttons-text clearfix"><font size="5"><ul style="list-style-type: none;"><li><b>Instructor: Byeong-Hak Choe</b> <b>(</b><a href="mailto:bchoe@geneseo.edu" class="about-link" rel="" target=""><i class="bi bi-envelope"></i><span class="about-link-text"> Email</span></a></span></a><b>)</b></li></ul></font></div>'
+
+date: ''
+date-modified: "" 
+# page-layout: full
+
+toc: false
+toc-title: ""
+toc-location: right
+comments: false
+# css: danl-wk/styles-wk.css
+from: markdown+emoji
+fig-align: center
+    
+format: 
+  html:
+    include-in-header:
+     text: |
+        <style>
+        #toc-welcome {
+              font-size: 1.67em;
+        }
+        #toc-bullet-lecture {
+              font-size: 1.67em;
+        }
+        #toc-bullet-classwork {
+              font-size: 1.67em;
+        }
+        #toc-bullet-homework {
+              font-size: 1.67em;
+        }
+        a {
+        text-decoration: none; /* This removes the underline */
+        padding: 5px 10px; /* Top & Bottom, Left & Right Padding */
+        border-radius: 5px; /* Rounds the corners */
+        }
+        </style>
+---
+
+
+
+
+<div style="display:block; margin:25px;"></div>
+
+<font size = "5">Welcome! 👋 </font>
+
+<div style="display:block; margin:-10px;"></div>
+
+<font size = "5">$-$ Explore, Learn, and Grow with Data Analytics! 🌟</font>
+
+<div style="display:block; margin:5px;"></div>
+
+
+# 🗓️ Tentative Course Schedule
+- Biweekly meetings on Fridays, 1:00 P.M.-3:00 P.M.
+  - In Week 13, the meeting is scheduled on November 19, Wednesday 12:00 P.M.-2:00 P.M., not on Friday.
+
+
+| Week | Dates       | Topic                                          | Notes |
+|:---:|:-------------:|:----------------------------------------------|:------|
+| 1   | August 29    | **Meeting 0** (Course Outline; Research Ideas)             |       |
+| 2   | Sep 2–5      | Prepare Meeting 1 (Data Collection; Research Ideas)             | Labor Day (Sep 1) |
+| 3   | September 12     | **Meeting 1** (Research Methods, Data Collection; Research Ideas)    |       |
+| 4   | Sep 15–19    | Prepare Meeting 2 (Data Preparation; Prepare the Research Kickoff Report)  |       |
+| 5   | September 26    | **Meeting 2** (Research Methods)      |   Submission of Research Kickoff Report    |
+| 6   | Sep 29–Oct 3 | Prepare Meeting 3 (Data Collection; Data Exploration)                    |       |
+| 7   | October 10     |  **Meeting 3**  (Research Methods)                    |  |
+| 8   | Oct 15–17    | Prepare Meeting 4 (Data Preparation; Prepare the Progress & Insights Report)   | Fall Break (Oct 13–14) |
+| 9   | October 24    |  **Meeting 4**  (Research Methods)  |  Submission of the Progress & Insights Report  |
+| 10  | Oct 27–31    | Prepare Meeting 5 (Data Modeling)  |       |
+| 11  | November 7      | **Meeting 5** (Research Methods)   |       |
+| 12  | Nov 10–14    | Prepare Meeting 6 (Prepare the Research Synthesis Report)  |       |
+| 13  | November 19    | **Meeting 6** (Research Methods)  | Submission of Research Synthesis Report  |
+| 14  | Nov 24–25    | Prepare Meeting 7 (Prepare the Final Proposal)  | Thanksgiving Break (Nov 26–28) |
+| 15  | December 5      | **Meeting 7** (Feedback on Final Proposal)    |       |
+| 16  | Dec 8        | Prepare the Final Proposal        |   Submission of Final Proposal    |
+
+
+## 📝 What the “Report” Should Contain
+
+Each report is meant to serve as a structured progress documentation that balances technical work and personal learning. You should:
+
+1.	Summarize progress
+	-	What was done since the last meeting? (e.g., data collection, preparation, exploration, modeling)
+	-	What challenges were encountered?
+2.	Evaluate methods
+	-	Are chosen tools/approaches working well?
+	-	What adjustments are needed?
+3.	Document insights
+	-	What new findings emerged from the data?
+	-	What was learned about the research question so far?
+4.	Plan ahead
+	-	What are the next concrete steps before the next meeting?
+	-	Identify support/resources needed.
+5.	Personal takeaways
+	-	Briefly reflect on skills gained (coding, data wrangling, communication, teamwork).
+	-	How do these skills connect to the overall capstone or professional goals?
+	
+
+## ✍️ Assignments
+
+- Research Kickoff Report
+  - Research ideas, data sources, and first challenges
+- Progress & Insights Report
+  - What’s been done and early analyses
+- Research Synthesis Report
+  - Takeaways, limitations, lessons learned, and next steps for the final proposal
+
+### 📑 Components of the Final Proposal
+
+1. Title & Abstract
+	-	Concise project title.
+	-	150–250 word abstract summarizing research question, data, methods, and expected contribution.
+
+2. Introduction & Motivation
+	-	Background on the problem/topic.
+	-	Why it matters (business, economics, or policy relevance).
+	-	Clear statement of research question(s).
+
+3. Literature & Context (short)
+	-	What have others done in this area?
+	-	How does this project extend or differ?
+
+4. Data
+	-	Description of the dataset(s): source, size, variables, time period.
+	-	How data were collected (APIs, scraping, public repositories, etc.).
+	-	Any limitations (missing data, measurement error).
+
+5. Methods / Analytical Approach
+	-	What techniques will be used (e.g., regression, clustering, NLP, time-series)?
+	-	Why are these methods appropriate?
+	-	Any expected preprocessing steps (cleaning, transformations).
+
+6. Preliminary Results / Exploration
+	-	Early exploratory data analysis (EDA).
+	-	Tables, summary statistics, or sample visualizations.
+	-	Evidence the student/team has actually interacted with the dataset.
+
+7. Timeline & Work Plan
+	-	Breakdown of remaining work (analysis, visualization, writing).
+	-	Roles and responsibilities if a team project.
+
+8. Expected Contributions
+	-	What new insights do you expect to generate?
+	-	Who benefits from this research (scholars, firms, policymakers, the public)?
+
+9. References
+	-	Cited literature, data sources, and tools (APA or other standard).
+
+10. Appendices (Optional)
+	-	Extra figures, code snippets, or data dictionaries.
+

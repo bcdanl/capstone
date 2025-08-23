@@ -1,0 +1,245 @@
+---
+title: Syllabus
+subtitle: "HONR 393: Capstone in Data Analytics, Fall 2025"
+author: "Byeong-Hak Choe"
+number-sections: false
+toc: true
+toc-depth: 4
+toc-expand: 2
+toc-title: "
+<div style='white-space:nowrap;'>
+  <img src='/img/logo-geneseo.jpg'
+       style='height:48px; display:inline-block; vertical-align:middle; margin-right:0px;'>
+  <span style='display:inline-block; vertical-align:middle; font-family:Arial; font-weight:bold; line-height:1.05;'>
+    Data<br>Analytics
+  </span>
+</div>
+<br>On this page"
+css: [weeks/styles-wk.css]
+---
+
+# Course Information
+
+- **Instructor**: Byeong-Hak Choe
+- **Email**: [bchoe@geneseo.edu](mailto:bchoe@geneseo.edu)
+- **Phone**: (585) 245-5425
+- **Class Websites**:
+  - [GitHub Course Website](https://bcdanl.github.io/capstone)
+  - [Brightspace Course Shell](https://mylearning.suny.edu/d2l/home/2152675)
+- **Office**: South Hall 227B
+- **Office Hours**:
+  - Mondays and Wednesdays 3:30 P.M. – 5:00 P.M.
+  - By appointment via email
+
+
+# Course Description
+The Edgar Fellows Capstone Experience will be a project of the student’s own design that will culminate in a written critical analysis of that experience, and an oral presentation of its results to an audience of peers. The project can be a traditional honors thesis, an artistic/ creative enterprise, scientific research, community service, or any endeavor that has intellectual integrity, challenge, and the potential for critical analysis. Proposals will be submitted to the Honors Committee by the beginning of the senior (or the Capstone) year.
+
+
+
+# School of Business Mission
+
+The School of Business at SUNY Geneseo is committed to exceptional business and economics education within the context of a strong liberal arts tradition. The School is distinguished by a uniquely accomplished and dedicated faculty, motivated and capable students, a robust professional development program, and the engaged support of alumni, employers, and business leaders. Students acquire strong quantitative, analytical, and communication skills while preparing for professional success as socially conscious contributors. We strive for teaching excellence, and we recognize that high-quality faculty scholarship and professional activities increase our impact on knowledge, practice, and pedagogy.
+
+# Bachelor of Arts in Data Analytics Program Competency Goals
+
+- **Competency Goal 1**: Our learners will have strong analytical skills.
+- **Competency Goal 2**: Our learners will have strong quantitative skills.
+- **Competency Goal 3**: Our learners will have effective communications skills.
+- **Competency Goal 4**: Our learners will have a thorough understanding of various functional areas of
+business.
+- **Competency Goal 5**: Our learners will have a multidimensional understanding of social responsibility.
+
+# Course Learning Outcomes
+
+A successful capstone project:  
+1. Poses an interesting question about real-world business or socioeconomic problems.  
+2. Uses publication-quality data visualization and statistical modeling (e.g., econometrics, machine learning).  
+3. Advances understanding of the problem within the course timeframe.
+
+# Course Requirements
+
+- **Homework**: 5 assignments
+- **Quizzes**: 2 in-class quizzes
+- **Participation**: In-class discussion 
+- **Team Project**: Data storytelling project with team presentation
+- **Exams**: 2 midterms and 1 final
+- **Tools**:
+  - [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+    - [Terms of Use](https://posit.co/wp-content/uploads/2024/07/RStudio-End-User-License-Agreement-2018.pdf)
+  - [Anaconda Distribution](https://www.anaconda.com/download)
+    - [Terms of Service](https://www.anaconda.com/legal/terms/terms-of-service)
+  - [Posit Cloud](https://posit.cloud)
+    - [Terms of Use](https://posit.co/about/posit-service-terms-of-use/)
+  - [Google Colab](https://colab.research.google.com)
+    - [Terms of Service](https://colab.research.google.com/pro/terms/v1)
+  - [GitHub](https://github.com)
+    - [Site Policy](https://docs.github.com/en/site-policy/)
+  - [Brightspace](http://brightspace.geneseo.edu/)
+    - [Privacy Policy](https://www.d2l.com/legal/privacy/)
+  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+    - [Services Agreement](https://www.microsoft.com/en-us/servicesagreement#14e_Skype)
+
+
+# Capstone Project
+- Data must be approved by instructor.  
+- Must include applications of machine learning methods (e.g., regression, clustering) and visualizations.  
+- Publish project write-up on a personal website hosted on GitHub.
+
+
+**Evaluation Criteria:**  
+1. Exploratory data analysis (summary statistics, visualization)  
+2. Applications of machine learning methods  
+3. Proposal quality  
+
+
+
+# Tentative Course Schedule
+- Biweekly meetings on Fridays, 1:00 P.M.-3:00 P.M.
+  - In Week 13, the meeting is scheduled on November 19, Wednesday 12:00 P.M.-2:00 P.M., not on Friday.
+
+
+| Week | Dates       | Topic                                          | Notes |
+|:---:|:-------------:|:----------------------------------------------|:------|
+| 1   | August 29    | **Meeting 0** (Course Outline; Research Ideas)             |       |
+| 2   | Sep 2–5      | Prepare Meeting 1 (Data Collection; Research Ideas)             | Labor Day (Sep 1) |
+| 3   | September 12     | **Meeting 1** (Research Methods, Data Collection; Research Ideas)    |       |
+| 4   | Sep 15–19    | Prepare Meeting 2 (Data Preparation; Prepare the Research Kickoff Report)  |       |
+| 5   | September 26    | **Meeting 2** (Research Methods)      |   Submission of Research Kickoff Report    |
+| 6   | Sep 29–Oct 3 | Prepare Meeting 3 (Data Collection; Data Exploration)                    |       |
+| 7   | October 10     |  **Meeting 3**  (Research Methods)                    |  |
+| 8   | Oct 15–17    | Prepare Meeting 4 (Data Preparation; Prepare the Progress & Insights Report)   | Fall Break (Oct 13–14) |
+| 9   | October 24    |  **Meeting 4**  (Research Methods)  |  Submission of the Progress & Insights Report  |
+| 10  | Oct 27–31    | Prepare Meeting 5 (Data Modeling)  |       |
+| 11  | November 7      | **Meeting 5** (Research Methods)   |       |
+| 12  | Nov 10–14    | Prepare Meeting 6 (Prepare the Research Synthesis Report)  |       |
+| 13  | November 19    | **Meeting 6** (Research Methods)  | Submission of Research Synthesis Report  |
+| 14  | Nov 24–25    | Prepare Meeting 7 (Prepare the Final Proposal)  | Thanksgiving Break (Nov 26–28) |
+| 15  | December 5      | **Meeting 7** (Feedback on Final Proposal)    |       |
+| 16  | Dec 8        | Prepare the Final Proposal        |   Submission of Final Proposal    |
+
+
+# Recommended References
+## Data Preparation and Statistical Methods
+- *Modern Business Analytics* – Matt Taddy
+- *An Introduction to Statistical Learning* – James, Witten, Hastie, Tibshirani ([Free PDF](https://www.statlearning.com))
+- *Statistical Inference via Data Science* – Ismay & Kim ([Online](https://moderndive.com))
+- *Practical Data Science with R* – Zumel & Mount ([Online](https://livebook.manning.com/book/practical-data-science-with-r-second-edition/)) 
+- *R for Data Science* – Wickham & Grolemund ([Free Online](https://r4ds.had.co.nz))
+- *Foundations of Data Science with Python* – Shea ([Online](https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro/intro.html))
+- *Python Data Science Handbook* – VanderPlas ([Free Online](https://jakevdp.github.io/PythonDataScienceHandbook))
+- *Python for Data Analysis* – McKinney ([Free Online](https://wesmckinney.com/book))
+- *Coding for Economists* – Turrell ([Online](https://aeturrell.github.io/coding-for-economists))
+
+## Reproducible Documentation
+- [Quarto Guide](https://quarto.org/docs/guide)  
+
+## Advanced Data Visualization
+- *Fundamentals of Data Visualization* – Wilke ([Free Online](https://clauswilke.com/dataviz))  
+- *Data Visualization: A Practical Introduction* – Healy ([Free Online](https://socviz.co))  
+- *R Graphics Cookbook* – Chang ([Free Online](https://r-graphics.org))  
+- *ggplot2: Elegant Graphics for Data Analysis* – Wickham et al. ([Free Online](https://ggplot2-book.org))  
+
+
+# Policies
+
+### Artificial Intelligence (AI)
+##### 📝 If you use AI, you must :
+
+- 📝 You must document which AI platforms and tools you used.
+- 📤 You must include your prompts and AI outputs with your assignment submission.
+- 🧠 You must include a reflection on your AI usage and learning process.
+
+### Academic Integrity and Plagiarism
+Do your own work. Academic dishonesty will not be tolerated. Examples include:
+
+- Representing the work, thoughts, or ideas of another person as your own  
+- Allowing others to represent your work, thoughts, or ideas as theirs  
+- Being complicit in academic dishonesty by suspecting or knowing of it and not taking action
+
+See: [Academic Dishonesty Policy and Procedures](https://www.geneseo.edu/handbook/academic-dishonesty-policy) and [Plagiarism Tutorial Brightspace Link](https://mylearning.suny.edu/d2l/le/discovery/view/course/2225415)
+
+
+
+
+### Accessibility
+SUNY Geneseo is dedicated to providing an equitable and inclusive educational experience for all students. The Office of Accessibility (OAS) will coordinate reasonable accommodations for persons with disabilities to ensure equal access to academic programs, activities, and services offered by SUNY Geneseo.
+
+Students with approved accommodations may submit a [semester request](https://www.geneseo.edu/accessibility-office/renew-academic-accommodations) to renew their academic accommodations. More information on the process for [requesting academic accommodations](https://www.geneseo.edu/accessibility-office/requesting-academic-accommodations) is on the OAS website.
+
+**Questions? Contact the OAS by email, phone, or in-person**:
+
+[Office of Accessibility Services](https://www.geneseo.edu/accessibility-office)  
+Erwin Hall 22  
+585-245-5112  
+[access@geneseo.edu](mailto:access@geneseo.edu)
+
+### Public Health and Class Attendance
+If you are experiencing symptoms associated with COVID on a day that class meets in-person, do not attend. Communicate proactively about absences and contact the Dean of Students if you expect to be out for an extended period.
+
+### Religious Observations and Class Attendance
+New York State Education Law 224-a stipulates that “any student in an institution of higher education who is unable, because of [their] religious beliefs, to attend classes on a particular day or days shall, because of such absence on the particular day or days, be excused from any examination or any study or work requirements” (see [General Classroom Policies for more information](https://www.geneseo.edu/apca/classroom-policies)). SUNY Geneseo has a commitment to inclusion and belonging, and I want to stress my respect for the diverse identities and faith traditions of students in my class. If you anticipate an absence due to religious observations, please contact me as soon as possible in advance to discuss your needs and arrange make up plans. The New York State Department of Civil Service maintains a [calendar of major religious observations](https://www.cs.ny.gov/attend_leave_manual/030Appendices/B-CalendarofLegalHolidays/AppendixB_CalendarTOC.htm).  
+
+
+### Military Obligations and Class Attendance
+Federal and New York State law requires institutions of higher education to provide an excused leave of absence from classes without penalty to students enrolled in the National Guard or armed forces reserves who are called to active duty. If you are called to active military duty and need to miss classes, please let me know and consult as soon as possible with the Dean of Students. 
+
+### Bias-Related Incidents
+
+> "We are here to listen, to learn, to teach, to debate, to change, to grow. We should all be safe to pursue these goals at SUNY Geneseo while being who we are. Together, we commit ourselves to pluralism, cultivating a community that respects difference and promotes a sense of inclusion and belonging."
+
+As this excerpt from our Community Commitment to Diversity, Equity, and Inclusion states, here at SUNY Geneseo, we want to provide a space where everyone feels welcome to learn and grow in their identities as well as in their role as students, faculty, and staff. If in the unfortunate instance you witness or experience an incident of bias, we encourage you to reach out to the [Chief Diversity Officer](mailto:rking@geneseo.edu), [Director of Multicultural Affairs](mailto:charcum@geneseo.edu), and/or our University Police Department. You may also choose to report it through the [bias-related incident reporting form](https://cm.maxient.com/reportingform.php?SUNYGeneseo&layout_id=5).  In trying to create an environment that facilitates growth through diverse thoughts and ideas, reporting incidents of bias - including threats, vandalism, and microaggressive behaviors - can help bring a better understanding of our campus climate as well as provide opportunities for learning and restoring harm.
+
+
+
+# Personal Health, Well-being, and Basic Needs
+
+### Well-Being 
+Prioritizing well-being can support the achievement of academic goals and alleviate stress. Eating nutritious foods, getting enough sleep, exercising, avoiding drugs and alcohol, maintaining healthy relationships, and building in time to relax all help promote a healthy lifestyle and general well-being. Your health and wellbeing are foundational to your ability to learn, and if you find that you are feeling unwell (physically or mentally) and it is impacting your ability to complete your coursework, please reach out. In a similar way, I will occasionally ask for some patience and flexibility on your part. 
+
+If I am slow responding to an email, if I take some time to grade an assignment, or if I am a bit late posting course materials, please be patient (and feel free to send me a ‘nudge’; I will not be offended). You will never suffer any disadvantage in the course because of delays on my part. Remember that we are all in this together.
+
+### Basic Needs Statement
+In order to foster a sense of belonging and connection, a state of financial, mental, emotional and physical stability must be achieved. If you are facing food insecurity, displacement, an emergency, crisis, or health-related or medical expense, you are not alone. Concerns about academic performance, health situations, family health and wellness (including the loss of a loved one), interpersonal relationships and commitments, and other factors can contribute to stress. Students are strongly encouraged to communicate their needs to faculty and staff and seek support if they are experiencing unmanageable stress or are having difficulties with daily functioning. The Dean of Students (585-245-5706) can assist and provide direction to [appropriate campus resources](https://www.geneseo.edu/student_life/resources-student-basic-needs). For more information, visit the [Dean of Students Office website](https://www.geneseo.edu/dean_students).
+
+### Mental Health
+As a student, you may experience a range of challenges that can impact your mental health and thus impact your learning; common examples include increased anxiety, shifts in mood, strained relationships, difficulties related to substance use, trouble concentrating, and lack of motivation, among many others. These experiences may reduce your ability to participate fully in daily activities and affect your academic performance.
+
+SUNY Geneseo offers free, confidential counseling for students through Student Health and Counseling, and seeking support for your mental health can be key to your success at college. You can learn more about the [various mental health services available on campus online](https://www.geneseo.edu/health/counseling). To request a counseling appointment, please [complete the online form](http://myhealth.geneseo.edu/).
+
+### Guidelines for Attendance and Public Health
+SUNY Geneseo is a residential liberal arts college where we all learn together in a shared space. This classroom community is vital for engaging in discussions, solving problems, and answering questions together. Learning is an active process, and it requires engagement - on my part and yours. I promise to create an interactive and collaborative classroom space, and in return I expect you to attend and engage in the activities. 
+
+It’s possible that some of you may get sick over the course of the semester. Because we want you to be successful and because we value your contribution to the course, we expect you to prioritize attendance. If you are not feeling well and your symptoms do not allow you to attend class, stay home (except to go to the health center), rest, and take care of yourself. You can find more [guidelines from the Center for Disease Control](https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html) for precautions when sick which cover flu, COVID, and other illnesses.
+
+I expect you to communicate with me directly about your absences. I can support you to keep up with class if you are out for an illness, but I need you to take responsibility for being transparent and clear in letting me know when you are out and why. Although I can work with you on keeping up, you may miss some course content and extended absences may impact your ability to realize your full potential in this class. For extended absences (i.e., more than a couple of days of classes), you should contact the Dean of Students who can assist with reaching out to your faculty.
+
+### Food Security for SUNY Geneseo Students
+SUNY Geneseo is committed to supporting students who are experiencing food insecurity. If you're unfamiliar with the phrase "food insecurity," you can learn more at the following link on Feeding America’s website: [Understanding Food Insecurity](https://hungerandhealth.feedingamerica.org/understand-food-insecurity/). 
+
+[Knights’ Harvest Pantry](https://www.geneseo.edu/volunteer_center/knights-harvest-pantry), our on-campus food pantry, is a collaborative initiative supported by Campus Auxiliary Services (CAS) and facilitated by trained student volunteers. The program is advised by the Assistant Director of Student Volunteerism and Community Engagement in partnership with the Geneseo Opportunities for Leadership Development (GOLD) program. 
+
+Students who are in need can confidentially request a bag of food and basic hygiene supplies through our website. These bags typically include non-perishable items and, when available, fresh fruits, vegetables, meat, and dairy products. Pickups take place at the GOLD Leadership Center in MacVittie College Union, Room 114. 
+
+We are committed to protecting student privacy and promoting dignity, while also working to destigmatize food insecurity on our campus. If Knights’ Harvest Pantry does not fully meet your needs or if you'd prefer to discuss your situation privately, please reach out to Cheyenne DeMarco, Assistant Director of Student Volunteerism and Community Engagement, at cdemarco@geneseo.edu for a one-on-one consultation. 
+
+Please note that Knights’ Harvest Pantry is closed during official SUNY breaks, including Fall Break, Winter Intersession, Spring Break, and summer between semesters. During these times, students are encouraged to access the [Geneseo-Groveland Emergency Food Pantry](https://ggefoodpantry.org), located at 31 Center Street, Geneseo, NY 14454. For updates on pantry hours, events, and additional support opportunities, follow us on Instagram or Facebook: @knightsharvestgeneseo. For questions or support, contact Cheyenne DeMarco at cdemarco@geneseo.edu or (585) 245-5893.
+
+### Emergency Funding
+The college has three sources of emergency funding for students experiencing short-term financial crises. The [Camiolo Student Emergency Loan Fund (SELF)](https://www.geneseo.edu/support/self-student-emergency-loan-fund) provides short-term loans to students for situations both temporary and beyond their control. The SELF was established with the expectation that students who use the fund seek to “pay it forward” as soon as they are able by contributing to the fund so other students can be helped, too. While there is not a legal obligation, the donors hope that student loan recipients respect and honor the value of community and helping others in their time of crisis. The [One Knight Student Aid Emergency Fund](https://www.geneseo.edu/dean_students/one-knight-student-aid-emergency-fund) assists Geneseo students who are facing financial emergencies mainly related to the COVID-19 pandemic. The fund offers grants (one-time award) depending on a student's documented financial need. For those students expecting a refund from financial aid, a Temple Hill loan of up to $500 can be offered prior to the approved loan dispersal. If you are experiencing financial hardship, please contact the Dean of Students (585-245-5706), who can assist and provide direction to appropriate campus resources.
+
+
+
+# SUNY Geneseo’s Commitments, Mission and Values
+
+SUNY Geneseo has several core documents that articulate our shared commitments and learning objectives. These include:
+
+- [SUNY Geneseo Mission, Vision and Values](https://www.geneseo.edu/about/mission-vision-and-values)
+- [Community Commitment to Diversity, Equity, and Inclusion](https://www.geneseo.edu/diversity/commitment)
+- [Sustainability as a Core Value](https://www.geneseo.edu/sustainability/about-sustainability-geneseo)
+- [Geneseo Learning Outcomes for Baccalaureate Education](https://www.geneseo.edu/provost/globe-geneseo-learning-outcomes-baccalaureate-education)
+
+
+# Disclaimer
+
+The syllabus may be subject to change during the semester. If it is changed, you will be notified via email and Brightspace.
