@@ -65,20 +65,13 @@ A successful capstone project:
 - **Team Project**: Data storytelling project with team presentation
 - **Exams**: 2 midterms and 1 final
 - **Tools**:
-  - [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
-    - [Terms of Use](https://posit.co/wp-content/uploads/2024/07/RStudio-End-User-License-Agreement-2018.pdf)
-  - [Anaconda Distribution](https://www.anaconda.com/download)
-    - [Terms of Service](https://www.anaconda.com/legal/terms/terms-of-service)
-  - [Posit Cloud](https://posit.cloud)
-    - [Terms of Use](https://posit.co/about/posit-service-terms-of-use/)
-  - [Google Colab](https://colab.research.google.com)
-    - [Terms of Service](https://colab.research.google.com/pro/terms/v1)
-  - [GitHub](https://github.com)
-    - [Site Policy](https://docs.github.com/en/site-policy/)
-  - [Brightspace](http://brightspace.geneseo.edu/)
-    - [Privacy Policy](https://www.d2l.com/legal/privacy/)
-  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
-    - [Services Agreement](https://www.microsoft.com/en-us/servicesagreement#14e_Skype)
+  - [RStudio Desktop](https://posit.co/download/rstudio-desktop/) ([Terms of Use](https://posit.co/wp-content/uploads/2024/07/RStudio-End-User-License-Agreement-2018.pdf))
+  - [Anaconda Distribution](https://www.anaconda.com/download) ([Terms of Service](https://www.anaconda.com/legal/terms/terms-of-service))
+  - [Posit Cloud](https://posit.cloud) ([Terms of Use](https://posit.co/about/posit-service-terms-of-use/))
+  - [Google Colab](https://colab.research.google.com) ([Terms of Service](https://colab.research.google.com/pro/terms/v1))
+  - [GitHub](https://github.com) ([Site Policy](https://docs.github.com/en/site-policy/))
+  - [Brightspace](http://brightspace.geneseo.edu/) ([Privacy Policy](https://www.d2l.com/legal/privacy/))
+  - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) ([Services Agreement](https://www.microsoft.com/en-us/servicesagreement#14e_Skype))
 
 
 # Capstone Project
